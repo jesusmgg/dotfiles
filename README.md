@@ -1,6 +1,7 @@
 # My .config files for Linux
 
 ## Requirements
+- tmux
 - fish
 - omf for fish
 - neovim
