@@ -11,6 +11,6 @@
 $ git clone git@github.com:jesusmgg/dotfiles.git
 $ cd dotfiles
 $ chmod +x ./setup.fish
-$ setup.fish
+$ ./setup.fish
 ```
 
